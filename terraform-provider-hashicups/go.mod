@@ -1,4 +1,4 @@
-module hashicups
+module terraform-provider-hashicups
 
 go 1.23.7
 
